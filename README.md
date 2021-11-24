@@ -1,3 +1,3 @@
 # test-jenkins-repo
 just a test
-STUPID
+I changed the public IP
