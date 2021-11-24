@@ -1,3 +1,2 @@
 # test-jenkins-repo
-just a test
-I changed the public IP
+Four sccore and seven years ago
